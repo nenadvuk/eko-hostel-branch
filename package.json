@@ -6,9 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy":"gh-pages -d public"
+    "deploy": "gh-pages -d public"
   },
-  "hompage": "https://github.com/SlavkoVran/eko-hostel-branch-3g",
   "dependencies": {
     "core-js": "^2.6.5",
     "gh-pages": "^2.0.1",
@@ -50,5 +49,6 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "hompage": "https://github.com/SlavkoVran/eko-hostel-branch-3g"
 }
